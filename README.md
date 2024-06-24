@@ -198,7 +198,7 @@ Frontend Developer
       <a href="#sunsetikLover">
         <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" width="36" height="36" alt="Styled-components" />
       </a>
-      <br>Sass
+      <br>Styled-components
     </td>
    
   </tr> 
