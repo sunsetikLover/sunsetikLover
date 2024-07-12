@@ -6,7 +6,7 @@
 
 Frontend Developer
 
-- :office: &nbsp;I'm currently working at **[Nutnet](https://nutnet.ru/)**
+
 - :fire: &nbsp;I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
 
 <br>
